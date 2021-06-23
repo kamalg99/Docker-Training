@@ -1,0 +1,6 @@
+root@Master:~# docker network ls
+NETWORK ID     NAME      DRIVER    SCOPE
+ab3274a88dff   bridge    bridge    local
+533ebbbf4cb6   host      host      local
+766479c9e5e5   none      null      local
+root@Master:~#
